@@ -1,0 +1,2 @@
+# validateEmail
+validate email string
